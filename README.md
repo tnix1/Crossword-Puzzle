@@ -1,2 +1,3 @@
 # Crossword-Puzzle
 Python Crossword Puzzle
+The purpose of this assignment was to create a simple crossword game. Start off by creating the grid and a main class.Inside the main class to start off you are creating the puzzle and grid and making sure letters can go in corresponding blocks. Print lets play a game to the screen then after your choices are given to you, Guess word, Show CLue, SHow grid and Quit. After obtaining clues you can add your own guess to the puzzle. This is all done inside a while koop so that the menu can be printed and you can obtain the players choice. The choices given for choosing Quit, Show clue, and Show grid. You choose which direction and the box numbers of the words. The rest of the code explains as it goes.
